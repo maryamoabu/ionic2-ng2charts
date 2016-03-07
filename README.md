@@ -3,7 +3,7 @@
 ## Installation
 - Clone repo
 - Run `npm install`
-- You may `serve` or `run` on your device of choice.
-- 
+- You can run `serve` or `run` on your device of choice.
+
 ## Demo
 ![demo](https://github.com/ihadeed/ionic2-ng2charts/blob/master/ezgif-3553611927.1.gif?raw=true)
