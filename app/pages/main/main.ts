@@ -1,8 +1,9 @@
 import {Page} from 'ionic-angular';
-import {CHART_DIRECTIVES} from '../../charts';
+import {CHART_DIRECTIVES} from '../../charts'; // Import CHART_DIRECTIVES here
 
 @Page({
   templateUrl: 'build/pages/main/main.html',
+  directives: [CHART_DIRECTIVES] // Include CHART_DIRECTIVES here
 })
 export class MainPage {
 

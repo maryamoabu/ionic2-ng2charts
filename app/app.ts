@@ -1,5 +1,6 @@
 import {App, Platform} from 'ionic-angular';
 import {MainPage} from './pages/main/main';
+import {CHART_DIRECTIVES} from './charts';
 
 // https://angular.io/docs/ts/latest/api/core/Type-interface.html
 import {Type} from 'angular2/core';
